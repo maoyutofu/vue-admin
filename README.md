@@ -1,6 +1,6 @@
 # vue-admin
 
-> A Vue.js project
+> 一个基于bootstrap 3和admin-lte css的vue后台管理系统模板
 
 ## Build Setup
 
@@ -24,5 +24,4 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-#vue-admin
+vue-admin 的诞生离不开 [vuejs](https://github.com/vuejs/vue) 开源项目以及 [bootstrap](https://github.com/twbs/bootstrap) 和 [admin-lte](https://github.com/almasaeed2010/AdminLTE) 。
